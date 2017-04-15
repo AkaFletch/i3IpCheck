@@ -1,9 +1,10 @@
-An i3 block which will send a single ping to listed devices and list the related name as home
+An i3 block which will send a single ping to listed devices and list the related name as home.
 
 ![alt tag](https://i.imgur.com/yk96uYp.png)
 
 Real quick script which just pings each listed ip address and prints out which ip's respond with their given names.
-It's neccessary to set the IP's as static to ensure the script will continue to work over longer periods. I recommend using a users phone as they're usually always carried
+It's neccessary to set the IP's as static to ensure the script will continue to work over longer periods. I recommend using a users phone as they're usually always carried.
+The grammer now displays correctly, I can't be bothered making a new screenshot...
 
 Font awesome is recommended for the nice house icon
 
